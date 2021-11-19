@@ -9,4 +9,7 @@ Plastic surgeons who undertake the repair and reconstruction of facial deformiti
  ## Acknowledgement
 
 The dataset is sourced from Ruskino RU. We thank PavelBiz for this dataset.
+## Results 
+<img width="438" alt="image" src="https://user-images.githubusercontent.com/80268413/142662622-99522fc5-c915-46ac-a8c8-b0793a808d15.png">
+
 
